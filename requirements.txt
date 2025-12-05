@@ -1,0 +1,11 @@
+flask
+pymongo
+python-dotenv
+joblib
+numpy
+pandas
+scikit-learn
+notebook
+jupyter
+matplotlib
+seaborn
